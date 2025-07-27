@@ -140,7 +140,7 @@
     background-size: 230%;
  }
   .middle .circle:nth-child(3){
-   background-image: url(/leaves.png);
+   background-image: url(\ leaves.png);
    background-size: 300%;
 }
  .middle .circle::before{
